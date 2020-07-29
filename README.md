@@ -1,14 +1,14 @@
 >- 虽然webStorm,phpStorm以及jetbrains系列的很好用,但是每隔一段时间就需要激活一下,这样太费劲了,今天军哥给大家推荐一个永久激活的办法
 >- 此教程适用于jetbrains 的所有系列的软件
->- 简书 [https://www.jianshu.com/p/133af2e4fe3f](https://www.jianshu.com/p/133af2e4fe3f)
+>- 简书 https://www.jianshu.com/p/730f6ae22599
 >- QQ技术交流①群 729987144
 >- QQ技术交流②群 272712006
 >- QQ技术交流③群 1093476453
 >- QQ技术交流④群 277030213
 ### 激活码
 
->- 2020-07-18激活码https://545c.com/file/18744103-453750741
->- 2020-07-18激活码备用地址https://o8.cn/gRWBJo 密码：dzyz
+>- 2020-07-29激活码 https://545c.com/dir/18744103-37462496-d1772c
+>- 2020-07-29激活码备用地址 https://o8.cn/E3jk1Z密码：d2gs
 - 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
 >- phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
@@ -21,6 +21,7 @@
 >- phpStorm 2020.1 https://545c.com/file/18744103-437789470
 >- --2020.1.2---
 >- idea 2020.1.2 https://545c.com/file/18744103-447221592
+>- idea 2020.2 https://545c.com/file/18744103-455472702
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
 - 2019.3.4拖动破解 https://545c.com/file/18744103-435013312
@@ -28,6 +29,8 @@
 - 2020.1.1拖拽破解备用地址 https://t.cn/A6wLN8zx 密码：vz5f
 - 2020.1.3破解包 https://545c.com/file/18744103-447200776
 - 2020.1.3破解包备用地址 https://o8.cn/PxHQyq 密码：qpr2
+- 2020.2 重置插件 https://545c.com/file/18744103-455455203
+- 2020.2 重置插件备用地址 https://o8.cn/hgk32M 密码：wawg
 ### 2.使用方法:
 - 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
 - 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
