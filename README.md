@@ -25,13 +25,25 @@
 >- idea 2020.2 https://545c.com/file/18744103-455472702
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
+
 - 2019.3.4拖动破解 https://545c.com/file/18744103-435013312
+
 - 2020.1.1 拖拽破解 https://545c.com/file/18744103-436204254
+
 - 2020.1.1拖拽破解备用地址 https://t.cn/A6wLN8zx 密码：vz5f
+
 - 2020.1.3破解包 https://545c.com/file/18744103-447200776
+
 - 2020.1.3破解包备用地址 https://o8.cn/PxHQyq 密码：qpr2
+
 - 2020.2 重置插件 https://545c.com/file/18744103-455455203
+
 - 2020.2 重置插件备用地址 https://o8.cn/hgk32M 密码：wawg
+>ps 重置插件使用方法
+>- 1.启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
+>- 2.在编辑器启动界面, 将 ide-eval-resetter-1.0.4.jar 拖放到编辑器里, 提示 "RESTART" 重新启动.
+>- 3.点击 "RESTART" 重启编辑器. 提示 ide-eval-resetter 已安装.
+
 ### 2.使用方法:
 - 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
 - 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
