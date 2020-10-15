@@ -33,8 +33,8 @@
 - 2020.1.3破解包备用地址 https://o8.cn/PxHQyq 密码：qpr2
 - 2020.2.2 破解包 https://545c.com/file/18744103-456856057
 - 2020.2.2 破解包备用地址 https://o8.cn/j12M0L
-- 2020.2.2 重置插件 https://545c.com/file/18744103-455455203
-- 2020.2.2 重置插件备用地址 https://o8.cn/hgk32M 密码：wawg
+- 2020.2.2 重置插件 https://545c.com/file/18744103-466993761
+- 2020.2.2 重置插件备用地址 https://www.90pan.com/b2130435
 >ps 重置插件使用方法
 >- 1.启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
 >- 2.在编辑器启动界面, 将 ide-eval-resetter-1.0.4.jar 拖放到编辑器里, 提示 "RESTART" 重新启动.
