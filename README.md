@@ -11,9 +11,9 @@
 >- 2021-01-20 xx https://545c.com/f/18744103-479732478-e9f394 （访问密码：4238）
 >- 2021-01-20 xx 备用地址 https://www.90pan.com/b2247850
 
-#### 看最新文章 2020.3.1激活
->- 最新激活文章1  https://www.jianshu.com/p/28f4e9a6c7c8
->- 最新激活文章2 https://juejin.cn/post/6910548915926335495
+#### 看最新文章 2020.3.3激活
+>- 最新激活文章2  https://juejin.cn/post/6919754828604243975/
+>- 永久试用  https://blog.csdn.net/simplyou/article/details/111945546
 
 - 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
