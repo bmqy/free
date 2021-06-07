@@ -1,19 +1,12 @@
 >- 虽然webStorm,phpStorm以及jetbrains系列的很好用,但是每隔一段时间就需要激活一下,这样太费劲了,今天军哥给大家推荐一个永久激活的办法
 >- 此教程适用于jetbrains 的所有系列的软件
->- 最新激活文章1  https://www.jianshu.com/p/28f4e9a6c7c8
->- 最新激活文章2 https://juejin.cn/post/6910548915926335495
+>- 永久试用文章 https://blog.csdn.net/simplyou/article/details/115617265?spm=1001.2014.3001.5501
 >- QQ技术交流③群 1093476453
 >- QQ技术交流④群 277030213
 >- QQ技术交流①群 729987144
 >- QQ技术交流②群 272712006
 
-### 激活码
->- 2021-01-20 xx https://545c.com/f/18744103-479732478-e9f394 （访问密码：4238）
->- 2021-01-20 xx 备用地址 https://www.90pan.com/b2247850
-
-#### 看最新文章 2021.1激活
->- 最新激活文章-支持 2021  https://juejin.cn/post/6919754828604243975/
->- 永久试用  https://blog.csdn.net/simplyou/article/details/111945546
+#### 永久试用文章 https://blog.csdn.net/simplyou/article/details/115617265?spm=1001.2014.3001.5501
 
 - 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
